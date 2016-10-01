@@ -6,6 +6,8 @@
 //  Copyright © 2016년 Seoksoon Jang. All rights reserved.
 //
 
+// this is the place : http://stackoverflow.com/questions/39804124/show-buttons-randomly-by-pressing-them/39804698#39804698
+
 import UIKit
 
 class ViewController: UIViewController {
